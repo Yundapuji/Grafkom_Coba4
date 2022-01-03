@@ -1,6 +1,9 @@
 // File Header
 // Yunda
+<<<<<<< HEAD
 // Novita
+=======
+>>>>>>> yunda
 #include <math.h>
 #include <GL/glut.h>
 #include <stdio.h>
