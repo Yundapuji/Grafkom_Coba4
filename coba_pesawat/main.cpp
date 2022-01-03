@@ -1,5 +1,11 @@
 // File Header
 // Yunda
+//<<<<<<< HEAD
+// Novita
+//=======
+//>>>>>>> yunda
+
+// 3e checkout
 #include <math.h>
 #include <GL/glut.h>
 #include <stdio.h>
